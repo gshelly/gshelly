@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello Peeps 👋
+
+**Rejuvenating You** - Fitness starts with rejuvenating yourself.
+
+Take control of your goals. Track calories, break down ingredients, and log activities with Rejuvenating You.
+![5o1tov](https://user-images.githubusercontent.com/12101522/134600855-e811627f-fada-4e0e-9b7c-c9e24110ecc6.gif)
 
 <!--
 **gshelly/gshelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
