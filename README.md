@@ -3,7 +3,9 @@
 **Rejuvenating You** - Fitness starts with rejuvenating yourself.
 
 Take control of your goals. Track calories, break down ingredients, and log activities with Rejuvenating You.
+
 Language Framework Used: MERN, Materail UI, React-Chart.js
+
 ![5o1tov](https://user-images.githubusercontent.com/12101522/134600855-e811627f-fada-4e0e-9b7c-c9e24110ecc6.gif)
 
 <!--
