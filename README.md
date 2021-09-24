@@ -1,5 +1,8 @@
 ### Hello Peeps 👋
 
+
+**Projects**
+
 **Rejuvenating You** - Fitness starts with rejuvenating yourself.
 
 Take control of your goals. Track calories, break down ingredients, and log activities with Rejuvenating You.
