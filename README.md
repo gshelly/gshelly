@@ -1,7 +1,7 @@
 ### Hello Peeps 👋
 
-https://github.com/gshelly/RejuvenatingYou/projects/1#card-69421231
-**Projects**
+
+**Projects** https://github.com/gshelly/RejuvenatingYou
 
 **Rejuvenating You** - Fitness starts with rejuvenating yourself.
 
